@@ -11,7 +11,7 @@ class App extends Component {
     const footerProps = {
       website: "umer.epizy.com",
       company: "Up Styler",
-      year: 2019
+      year: 2020
     };
 
     return (
